@@ -49,7 +49,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Testimonios
-    subtitle: An optional subtitle of the section
+    subtitle: Lo que dicen de mi
     col_number: three
     testimonials:
       - author: Sean Salazar
