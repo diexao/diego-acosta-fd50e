@@ -74,7 +74,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: Lo último del Blog
-    subtitle: An optional subtitle of the section
+    subtitle: Lo más reciente que he escrito
     posts_number: 3
     col_number: three
     actions:
