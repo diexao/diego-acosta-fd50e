@@ -103,7 +103,7 @@ seo:
     - name: 'twitter:title'
       value: diexao - Twitter
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: Diego Acosta - Twitter
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
