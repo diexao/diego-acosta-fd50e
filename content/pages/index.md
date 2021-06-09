@@ -9,7 +9,7 @@ sections:
       Esta es mi página web, acá estaré contándote un poco de mi y de lo que
       hago. 
     actions:
-      - label: Let's talk
+      - label: Háblame
         url: /contact
         style: button
   - section_id: latest-projects
