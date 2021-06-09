@@ -92,7 +92,7 @@ seo:
       value: diexao - Facebook
       keyName: property
     - name: 'og:description'
-      value: Diego Acosta Facebook
+      value: Diego Acosta - Facebook
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
