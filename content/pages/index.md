@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Lo qué hago
-    subtitle: An optional subtitle of the section
+    subtitle: Todo lo que te ofrezco
     col_number: two
     is_numbered: true
     grid_items:
