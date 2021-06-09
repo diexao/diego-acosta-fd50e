@@ -83,7 +83,7 @@ sections:
         style: button
 seo:
   title: diexao web page
-  description: The preview of the Exto theme
+  description: Diego Acosta page web
   extra:
     - name: 'og:type'
       value: website
