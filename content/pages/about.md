@@ -1,5 +1,5 @@
 ---
-title: Acerca de mí
+title: Acerca de mi
 subtitle: Conoce un poco más de mi
 image: images/about.jpg
 image_alt: A man taking a picture
