@@ -1,6 +1,6 @@
 ---
 title: Acerca de mi
-subtitle: Conoce un poco más de mi
+subtitle: Te cuento un poco de lo que he hecho
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
