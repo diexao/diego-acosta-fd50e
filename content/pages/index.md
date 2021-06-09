@@ -5,9 +5,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy Diego Acosta - @diexao'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Esta es mi página web, acá estaré contándote un poco de mi y de lo que
+      hago. 
     actions:
       - label: Let's talk
         url: /contact
