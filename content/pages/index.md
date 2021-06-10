@@ -5,9 +5,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hola, soy Diego Acosta - @diexao'
-    content: >
-      Esta es mi página web, acá estaré contándote un poco de mi y de lo que
-      hago. 
+    content: |
+      Acá estaré contándote un poco de mi y de lo que hago.
     actions:
       - label: Háblame
         url: /contact
