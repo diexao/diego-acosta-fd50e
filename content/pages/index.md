@@ -92,9 +92,7 @@ seo:
       value: diexao web page
       keyName: property
     - name: 'og:description'
-      value: |-
-        Diego Acosta
-        Me encanta la tecnología y el buen café.
+      value: Diego Acosta - Me encanta la tecnología y el buen café.
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
