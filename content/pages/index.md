@@ -93,7 +93,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: |
-        Diego Acosta.
+        Diego Acosta
       keyName: property
     - name: 'og:image'
       value: images/exto_preview.png
