@@ -32,7 +32,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "/images/diexao_logo_web_page.png"
     },
     "footer": {
         "content": "© diexao. Todos los derechos reservado. Creado con 🖤",
