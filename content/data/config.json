@@ -68,5 +68,6 @@
             }
         ]
     },
-    "domain": "https://diego-acosta-fd50e.netlify.app"
+    "domain": "https://diego-acosta-fd50e.netlify.app",
+    "favicon": "/images/diexao_favicon.png"
 }
