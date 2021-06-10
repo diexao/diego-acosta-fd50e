@@ -105,7 +105,8 @@ seo:
     - name: 'twitter:title'
       value: diexao web page
     - name: 'twitter:description'
-      value: Diego Acosta - Twitter
+      value: |
+        Diego Acosta
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
