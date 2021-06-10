@@ -22,7 +22,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Lo qué hago
-    subtitle: Todo lo que te ofrezco
+    subtitle: Todos mis servicios
     col_number: two
     is_numbered: true
     grid_items:
