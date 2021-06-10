@@ -23,7 +23,7 @@ sections:
       - input_type: select
         name: subject
         label: Asunto
-        default_value: Selecciona alguno
+        default_value: Selecciona uno
         options:
           - Error on the site
           - Sponsorship
