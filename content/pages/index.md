@@ -103,7 +103,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: diexao - Twitter
+      value: diexao web page
     - name: 'twitter:description'
       value: Diego Acosta - Twitter
     - name: 'twitter:image'
