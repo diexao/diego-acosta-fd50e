@@ -33,7 +33,8 @@
                 "style": "link"
             }
         ],
-        "logo_img": "/images/diexao_logo_web_page.png"
+        "logo_img": "/images/diexao_logo_web_page.png",
+        "logo_img_alt": "Inicio"
     },
     "footer": {
         "content": "© diexao. Todos los derechos reservado. Creado con 🖤",
