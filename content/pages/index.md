@@ -8,7 +8,7 @@ sections:
     content: |
       Acá estaré contándote un poco de mi y de lo que hago.
     actions:
-      - label: Háblame
+      - label: Envíame un mensaje
         url: /contact
         style: button
   - section_id: latest-projects
