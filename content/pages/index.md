@@ -89,7 +89,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: diexao - Facebook
+      value: diexao
       keyName: property
     - name: 'og:description'
       value: Diego Acosta - Facebook
