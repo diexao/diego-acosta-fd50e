@@ -6,7 +6,7 @@ sections:
     type: section_form
     content: >
       ¡Hola! Muchas gracias por tu interés. Completa el formulario de contacto a
-      continuación o envíame un correo electrónico a diexao@gmail.com
+      continuación o envíame un correo electrónico a yo@diexao.com
     form_id: contactForm
     form_action: /thank-you
     form_fields:
