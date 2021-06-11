@@ -28,6 +28,7 @@ sections:
           - Error en la pagina web
           - Trabajar juntos
           - Otro
+          - lorem-ipsum
       - input_type: textarea
         name: message
         label: Mensaje
