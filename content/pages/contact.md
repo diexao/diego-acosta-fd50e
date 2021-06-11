@@ -27,7 +27,7 @@ sections:
         options:
           - Error en la pagina web
           - Trabajar juntos
-          - Otro
+          - Saludar
           - lorem-ipsum
       - input_type: textarea
         name: message
