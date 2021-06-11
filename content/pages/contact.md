@@ -26,8 +26,8 @@ sections:
         default_value: Selecciona uno
         options:
           - Saludar
-          - Error en la pagina web
           - Trabajar juntos
+          - Error en la pagina web
           - Otro
       - input_type: textarea
         name: message
