@@ -25,9 +25,9 @@ sections:
         label: Asunto
         default_value: Selecciona uno
         options:
+          - Saludar
           - Error en la pagina web
           - Trabajar juntos
-          - Saludar
           - Otro
       - input_type: textarea
         name: message
