@@ -16,14 +16,6 @@ sections:
       - label: Envíame un mensaje
         url: /contact
         style: button
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Mis proyectos
-    subtitle: Te muestro un poco lo que he hecho
-    projects_number: 6
-    view_all_label: Ver todos
-    view_all_url: portfolio
   - section_id: services
     type: section_grid
     title: Lo qué me gusta
@@ -52,6 +44,14 @@ sections:
           Me encantan los autos y las motos, disfruto mucho de manejar y sentir
           la libertad de poder ir a cualquier parte y conocer nuevos lugares.
           Prefiero viajar en moto que en auto.
+  - section_id: latest-projects
+    type: section_portfolio
+    layout_style: mosaic
+    title: Mis proyectos
+    subtitle: Te muestro un poco lo que he hecho
+    projects_number: 6
+    view_all_label: Ver todos
+    view_all_url: portfolio
   - section_id: latest-posts
     type: section_posts
     title: Mi Blog
