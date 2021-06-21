@@ -66,7 +66,7 @@ sections:
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla.
       - author: Steve Jobs
-        avatar: images/aubrey_hoover.jpg
+        avatar: /images/stevejobs.jpeg
         avatar_alt: Aubrey Hoover's photo
         content: >-
           La única manera de hacer un gran trabajo, es amar lo que haces. Si no
