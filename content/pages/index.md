@@ -62,9 +62,9 @@ sections:
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
+          Dentro de veinte años estarás más decepcionado por las cosas que no
+          hiciste que por las que hiciste. Así que suelta las amarras. Explora.
+          Sueña. Descubre.
       - author: Steve Jobs
         avatar: /images/stevejobs.jpeg
         avatar_alt: Aubrey Hoover's photo
