@@ -36,7 +36,7 @@ sections:
           Emprender es un acto de revolución y debemos entenderlos como tal,
           salir de la zona de confort y empezar por nuestra cuenta a resolver el
           problemas de los demás es una actitud que pocas personas pueden hacer.
-      - title: Autoayuda
+      - title: Aprender cada día
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
