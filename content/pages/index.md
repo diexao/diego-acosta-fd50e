@@ -37,10 +37,10 @@ sections:
           salir de la zona de confort y empezar por nuestra cuenta a resolver el
           problemas de los demás es una actitud que pocas personas pueden hacer.
       - title: Aprender cada día
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+        content: >
+          Pienso que si un día no hemos aprendido algo nuevo es un día perdido.
+          Aprender día a día es vital para mejorar. Me fascina aprender de todo,
+          entender quienes somos y qué hacemos aquí.
       - title: Autos y motos
         content: >
           Me encantan los autos y las motos, disfruto mucho de manejar y sentir
