@@ -30,7 +30,8 @@ sections:
         content: >
           Me encanta la tecnología y todo lo que se puede lograr con ella. Me
           gusta aprender y llegar a entender cómo podemos usarla en nuestro día
-          a día. 
+          a día. La tecnología puede resolver muchos de los problemas sociales y
+          debemos hacerlo realidad.
       - title: Emprendimiento
         content: >
           Emprender es un acto de revolución y debemos entenderlos como tal,
