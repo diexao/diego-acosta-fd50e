@@ -12,6 +12,9 @@ sections:
       desarmar dispositivos electrónico y ver cómo están diseñados. También me
       gusta enseñar y compartir lo que voy aprendiendo. Más abajo podrás ver un
       poco más de mi...
+
+
+      ![](/\_static/app-assets/images/great-hickory.jpg)
     actions:
       - label: Envíame un mensaje
         url: /contact
