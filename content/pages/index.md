@@ -21,7 +21,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: Lo qué hago
+    title: Lo qué me gusta
     subtitle: Todos mis servicios
     col_number: two
     is_numbered: true
