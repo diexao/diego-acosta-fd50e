@@ -19,7 +19,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Mis proyectos más recientes
+    title: Mis proyectos
     subtitle: Esto es lo último que he hecho
     projects_number: 6
     view_all_label: Ver todos
