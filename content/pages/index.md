@@ -82,7 +82,7 @@ sections:
         style: button
 seo:
   title: diexao.com
-  description: Diego Acosta page web
+  description: Me encanta la tecnología y el buen café.
   extra:
     - name: 'og:type'
       value: website
