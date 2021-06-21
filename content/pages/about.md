@@ -1,6 +1,6 @@
 ---
 title: Acerca de mi
-subtitle: Te cuento un poco de lo que he hecho
+subtitle: Un poco de quien soy
 image: /images/fotoperfilfeb2020.jpg
 image_alt: A man taking a picture
 seo:
