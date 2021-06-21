@@ -36,7 +36,7 @@ sections:
           Emprender es un acto de revolución y debemos entenderlos como tal,
           salir de la zona de confort y empezar por nuestra cuenta a resolver el
           problemas de los demás es una actitud que pocas personas pueden hacer.
-      - title: Aprender cada día
+      - title: Aprender y enseñar
         content: >
           Pienso que si un día no hemos aprendido algo nuevo es un día perdido.
           Aprender día a día es vital para mejorar. Me fascina aprender de todo,
