@@ -11,7 +11,7 @@ sections:
       hasta desarmar dispositivos electrónicos y ver cómo están diseñados.
       También me gusta enseñar y compartir lo que voy aprendiendo.
     actions:
-      - label: Envíame un mensaje
+      - label: Contacto
         url: /contact
         style: button
   - section_id: services
