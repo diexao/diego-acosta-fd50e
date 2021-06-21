@@ -42,9 +42,10 @@ sections:
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
       - title: Autos y motos
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >
+          Me encantan los autos y las motos, disfruto mucho de manejar y sentir
+          la libertad de poder ir a cualquier parte y conocer nuevos lugares.
+          Prefiero viajar en moto que en auto.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonios
