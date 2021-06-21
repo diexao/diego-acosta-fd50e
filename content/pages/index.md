@@ -94,7 +94,7 @@ seo:
       value: Me encanta la tecnología y el buen café.
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: /_static/app-assets/images/fotoperfilfeb2020.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
