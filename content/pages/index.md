@@ -71,7 +71,7 @@ sections:
           La única manera de hacer un gran trabajo, es amar lo que haces. Si no
           lo has encontrado, sigue buscando. No te conformes.
       - author: Martin Luther King Jr
-        avatar: images/deegan_wallace.jpg
+        avatar: /images/martinlutherkingjr.jpeg
         avatar_alt: Deegan Wallace's photo
         content: >-
           Si no puedes volar, corre, si no puedes correr, camina, si no puedes
