@@ -22,7 +22,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Lo qué me gusta
-    subtitle: Todos mis servicios
+    subtitle: Un poco de lo que se y de lo que me gusta aprender
     col_number: two
     is_numbered: true
     grid_items:
