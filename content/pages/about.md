@@ -1,7 +1,7 @@
 ---
 title: Acerca de mí
 subtitle: Un poco de quien soy
-image: /images/fotoperfilfeb2020 small.jpg
+image: /images/diexao_logo_web_page.png
 image_alt: A man taking a picture
 seo:
   title: About Us
