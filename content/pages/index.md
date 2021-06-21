@@ -21,7 +21,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: Lo que me gusta
+    title: Lo qué me gusta
     subtitle: Un poco de lo que sé y de lo que me gusta aprender
     col_number: two
     is_numbered: true
