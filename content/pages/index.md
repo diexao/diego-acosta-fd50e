@@ -6,9 +6,6 @@ sections:
     type: section_hero
     title: 'Hola, soy Diego Acosta'
     content: >
-      ![](/\_static/app-assets/images/fotoperfilfeb2020%20small.jpg)
-
-
       Te cuento un poco de mi, lo que me gusta y lo que hago. Soy un
       emprendedor, me gusta aprender de todo y entender cómo funciona el mundo,
       la tecnología es algo que me apasiona, desde sistemas operativos hasta
