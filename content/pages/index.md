@@ -75,10 +75,9 @@ sections:
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Los medios quieren éxitos de la noche a la mañana. Ignóralos. Ignora
-          también a los inversionistas que quieren tácticas probadas y
-          resultados instantáneos y previsibles. Escucha en cambio a tus
-          clientes, a tu propia visión y haz algo que dure mucho tiempoa
+          Si no puedes volar, corre, si no puedes correr, camina, si no puedes
+          caminar, gatea. Sin importar lo que hagas, sigue avanzado hacia
+          adelante.
   - section_id: latest-posts
     type: section_posts
     title: Mi Blog
