@@ -49,7 +49,7 @@ sections:
           Prefiero viajar en moto que en auto.
   - section_id: testimonials
     type: section_testimonials
-    title: Testimonios
+    title: Frases
     subtitle: Lo que dicen de mi
     col_number: three
     testimonials:
