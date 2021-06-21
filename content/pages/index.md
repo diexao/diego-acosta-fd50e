@@ -50,7 +50,7 @@ sections:
   - section_id: testimonials
     type: section_testimonials
     title: Frases
-    subtitle: Algunas de las frases que más me gustan
+    subtitle: Algunas de las frases que más me inspiran
     col_number: three
     testimonials:
       - author: Sean Salazar
