@@ -102,7 +102,7 @@ seo:
     - name: 'twitter:title'
       value: diexao.com
     - name: 'twitter:description'
-      value: Diego Acosta - Me encanta la tecnología y el buen café.
+      value: Me encanta la tecnología y el buen café.
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
