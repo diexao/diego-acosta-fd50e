@@ -63,8 +63,7 @@ sections:
         avatar_alt: Sean Salazar's photo
         content: >-
           Dentro de veinte años estarás más decepcionado por las cosas que no
-          hiciste que por las que hiciste. Así que suelta las amarras. Explora.
-          Sueña. Descubre.
+          hiciste que por las que hiciste. Explora. Sueña. Descubre.
       - author: Steve Jobs
         avatar: /images/stevejobs.jpeg
         avatar_alt: Aubrey Hoover's photo
