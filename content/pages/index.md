@@ -81,7 +81,7 @@ sections:
         url: blog
         style: button
 seo:
-  title: diexao web page
+  title: diexao.com
   description: Diego Acosta page web
   extra:
     - name: 'og:type'
