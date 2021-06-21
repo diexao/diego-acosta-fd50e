@@ -104,7 +104,7 @@ seo:
     - name: 'twitter:description'
       value: Me encanta la tecnología y el buen café.
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: /_static/app-assets/images/fotoperfilfeb2020.jpg
       relativeUrl: true
 layout: advanced
 ---
