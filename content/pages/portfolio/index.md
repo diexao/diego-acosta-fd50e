@@ -1,6 +1,6 @@
 ---
 title: Mis proyectos
-subtitle: Te muestro lo qu he hecho
+subtitle: Te muestro lo que he hecho
 layout_style: mosaic
 seo:
   title: Portfolio
