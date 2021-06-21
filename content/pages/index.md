@@ -75,8 +75,10 @@ sections:
         avatar: images/deegan_wallace.jpg
         avatar_alt: Deegan Wallace's photo
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+          Los medios quieren éxitos de la noche a la mañana. Ignóralos. Ignora
+          también a los inversionistas que quieren tácticas probadas y
+          resultados instantáneos y previsibles. Escucha en cambio a tus
+          clientes, a tu propia visión y haz algo que dure mucho tiempoa
   - section_id: latest-posts
     type: section_posts
     title: Mi Blog
