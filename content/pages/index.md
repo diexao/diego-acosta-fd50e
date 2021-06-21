@@ -52,6 +52,16 @@ sections:
           Me encantan los autos y las motos, disfruto mucho de manejar y sentir
           la libertad de poder ir a cualquier parte y conocer nuevos lugares.
           Prefiero viajar en moto que en auto.
+  - section_id: latest-posts
+    type: section_posts
+    title: Mi Blog
+    subtitle: Lo más reciente que he escrito
+    posts_number: 3
+    col_number: three
+    actions:
+      - label: Ir al Blog
+        url: blog
+        style: button
   - section_id: testimonials
     type: section_testimonials
     title: Frases
@@ -77,16 +87,6 @@ sections:
           Si no puedes volar, corre, si no puedes correr, camina, si no puedes
           caminar, gatea. Sin importar lo que hagas, sigue avanzado hacia
           adelante.
-  - section_id: latest-posts
-    type: section_posts
-    title: Mi Blog
-    subtitle: Lo más reciente que he escrito
-    posts_number: 3
-    col_number: three
-    actions:
-      - label: Ir al Blog
-        url: blog
-        style: button
 seo:
   title: diexao.com
   description: Me encanta la tecnología y el buen café.
