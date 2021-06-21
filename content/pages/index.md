@@ -31,7 +31,7 @@ sections:
           Me encanta la tecnología y todo lo que se puede lograr con ella. Me
           gusta aprender y llegar a entender como podemos usarla en nuestro día
           a día.
-      - title: Service Title
+      - title: Emprendimiento
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
