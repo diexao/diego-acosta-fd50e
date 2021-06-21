@@ -59,7 +59,7 @@ sections:
     col_number: three
     testimonials:
       - author: Mark Twain
-        avatar: /images/marktwain.jpeg
+        avatar: /images/marktwain.png
         avatar_alt: Sean Salazar's photo
         content: >-
           Dentro de veinte años estarás más decepcionado por las cosas que no
