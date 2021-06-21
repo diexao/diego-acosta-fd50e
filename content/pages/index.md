@@ -58,7 +58,7 @@ sections:
     subtitle: Algunas de las frases que más me inspiran
     col_number: three
     testimonials:
-      - author: Sean Salazar
+      - author: Mark Twan
         avatar: images/sean_salazar.jpg
         avatar_alt: Sean Salazar's photo
         content: >-
