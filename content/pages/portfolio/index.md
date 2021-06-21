@@ -1,6 +1,6 @@
 ---
 title: Mis proyectos
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Te muestro lo qu he hecho
 layout_style: mosaic
 seo:
   title: Portfolio
