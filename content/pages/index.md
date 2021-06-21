@@ -20,7 +20,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Mis proyectos
-    subtitle: Esto es lo último que he hecho
+    subtitle: Te muestro un poco lo que he hecho
     projects_number: 6
     view_all_label: Ver todos
     view_all_url: portfolio
