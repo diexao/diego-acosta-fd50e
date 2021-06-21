@@ -31,11 +31,10 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Soy Diego Acosta, he pasado cerca de 10 años en el mundo del emprendimiento. Durante este tiempo estudié ingeniería electrónica y diseño industrial. También tuve durante 5 años una empresa de capacitación donde aprendí muchísimas cosas, la más importante fue que **enseñar es la manera más efectiva de aprender**. Luego dirigí una start-up donde descubrí todo un mundo nuevo y un sin fin de posibilidades con el internet y la tecnología.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+> El mundo siempre parece más brillante cuando acabas de hacer algo que no existía antes. - Neil Gaiman
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+Me gusta innovar y buscar nuevas maneras de hacer las cosas. Explorar es parte de mí y siempre busco otras formas de resolver problemas. Cuando emprendes debes buscar una mejor solución de la que ya existe. **Emprender es un acto de revolución**, donde te enfrentas a todo un sistema establecido y tu intensión es cambiar la manera en la que la gente soluciona sus problemas. Yo creo que **siempre hay una manera más eficiente de hacer las cosas**.
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
+*¡Gracias por leerlo!*
