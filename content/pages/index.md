@@ -74,7 +74,7 @@ sections:
           convallis, interdum ligula vel, pretium diam.
   - section_id: latest-posts
     type: section_posts
-    title: Lo último del Blog
+    title: Mi Blog
     subtitle: Lo más reciente que he escrito
     posts_number: 3
     col_number: three
