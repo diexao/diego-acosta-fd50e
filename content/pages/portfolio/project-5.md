@@ -1,6 +1,6 @@
 ---
 title: Llegar al siguiente nivel
-subtitle: Optional Project Subtitle
+subtitle: Tutor in home - Una start-up
 date: '2019-01-05'
 thumb_image: /images/escalera.png
 thumb_image_alt: A white gamepad on a green background
