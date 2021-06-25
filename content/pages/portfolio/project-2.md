@@ -1,6 +1,6 @@
 ---
 title: Trayendo cositas
-subtitle: Optional Project Subtitle
+subtitle: KD Importaciones - Un intento por traer tecnología
 date: '2019-04-30'
 thumb_image: /images/headphones.png
 thumb_image_alt: An orange on a blue background
