@@ -1,6 +1,6 @@
 ---
 title: Mucho aprendizaje
-subtitle: Optional Project Subtitle
+subtitle: Altacumbre - Un centro de nivelación académica
 date: '2019-02-26'
 thumb_image: /images/libros.png
 thumb_image_alt: A table tennis racket on a pink background
