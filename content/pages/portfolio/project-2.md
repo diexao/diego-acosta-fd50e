@@ -1,5 +1,5 @@
 ---
-title: Project Title 2
+title: Trayendo cositas
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
 thumb_image: /images/headphones.png
